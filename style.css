@@ -8,3 +8,10 @@ body {
     width: 1200px;
     margin: 0 auto;
 }
+#c1 {
+    width: 400px;
+    height: 200px;
+    border: 3px solid black;
+    margin: 40px;
+    background-image: url(img/setka.png);
+}
